@@ -25,7 +25,7 @@ SECRET_KEY = '1!-x*x2@tbfjse2hxwo1bp$zusw-ph7h4!y+fckpj2u8x&3s4*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['ladysquirrel.pythonanywhere.com']
 
 
 # Application definition
